@@ -71,5 +71,5 @@ Output goes to stdout and gets saved to `output/`.
 ## Tests
 
 ```bash
-pytest test_main.py -v
+pytest test_main.py test_extra_metrics.py -v
 ```
